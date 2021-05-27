@@ -1,0 +1,5 @@
+package com.beta.couponmicroservice.rest;
+
+public class CategoryRestController {
+
+}

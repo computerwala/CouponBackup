@@ -1,0 +1,5 @@
+package com.beta.usermicroservice.config;
+
+public class Config {
+
+}

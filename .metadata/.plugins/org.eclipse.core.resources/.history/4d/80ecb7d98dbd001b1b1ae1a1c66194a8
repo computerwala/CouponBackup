@@ -1,0 +1,5 @@
+package com.beta.couponmicroservice.services;
+
+public class ProductServices {
+
+}
