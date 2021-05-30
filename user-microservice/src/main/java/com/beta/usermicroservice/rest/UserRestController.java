@@ -1,11 +1,13 @@
 package com.beta.usermicroservice.rest;
 
+import java.util.HashMap;
 import java.util.List;
 
 import org.omg.CORBA.UserException;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -17,7 +19,7 @@ import com.beta.usermicroservice.service.UserServices;
 import com.netflix.hystrix.contrib.javanica.annotation.HystrixCommand;
 import com.netflix.hystrix.contrib.javanica.annotation.HystrixProperty;
 
-
+@CrossOrigin(origins = "http://localhost:4200")
 @RestController
 @RequestMapping("/api")
 public class UserRestController {
@@ -30,6 +32,7 @@ public class UserRestController {
 		try {
 			List<User> users=userService.getAllUser();
 			if (users != null) {
+			System.out.println("gekko");
 	            return ResponseEntity.status(HttpStatus.OK).body(users);
 	        } else {
 	            return ResponseEntity.status(HttpStatus.NOT_FOUND).build();
@@ -63,42 +66,49 @@ public class UserRestController {
 	
 	public ResponseEntity<User> getUserFallBack(@PathVariable Long id) {
 		try {
-			  return ResponseEntity.status(HttpStatus.OK).body(new User("first Name", "last Name", null));
-		}catch (Exception e) {
+			  return ResponseEntity.status(HttpStatus.OK).body(new User("first Name", "last Name","phone"));
+		} catch (Exception e) {
 			return ResponseEntity.status(HttpStatus.BAD_REQUEST).build();
 		}
 	}
 	
 	
 	@RequestMapping(method = RequestMethod.POST,value="/users")
-	public String addUser(@RequestBody User user) {
+	public HashMap<String, String> addUser(@RequestBody User user) {
+		HashMap<String, String> map = new HashMap<>();
 		try {
-					userService.addUser(user);
-				return "Success";
-			}catch (Exception e) {
-				return "Error";
+				userService.addUser(user);
+			    map.put("message", "success");
+				return map;
+			} catch (Exception e) {
+				map.put("message", "error");
+				return map;
 	    }
 	}
 	
 	@RequestMapping(method = RequestMethod.PUT,value="/users")
-	public String updateUser(@RequestBody User user) {
+	public HashMap<String, String> updateUser(@RequestBody User user) {
+		HashMap<String, String> map = new HashMap<>();
 		try {
 			userService.updateUser(user);
-		    return "Success";
-		}catch (Exception e) {
-			return "Error";
-    }
+			map.put("message", "success");
+			return map;
+		} catch (Exception e) {
+			map.put("message", "error");
+			return map;
+		}
 	}
 	
 	@RequestMapping(method = RequestMethod.DELETE,value="/users/{id}")
-	public String deleteUser(@PathVariable Long id) {
+	public  HashMap<String, String> deleteUser(@PathVariable Long id) {
+		HashMap<String, String> map = new HashMap<>();
 		try {
-			userService.deleteUser(id);;
-		    return "Success";
-		}catch (Exception e) {
-			return "Error";
-    }
+			userService.deleteUser(id);
+			map.put("message", "success");
+			return map;
+		} catch (Exception e) {
+			map.put("message", "error");
+			return map;
+		}
 	}
-
-	
 }

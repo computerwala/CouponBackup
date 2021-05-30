@@ -20,7 +20,7 @@ public class OrdersService {
 	public List<Orders> getAllOrders()
 	{
 		try {
-			return ordersRepository.findAll();
+			return (List<Orders>)ordersRepository.findAll();
 		}catch (Exception e) {
 			System.out.println("SERVICE"+e.getMessage());
 
@@ -52,13 +52,24 @@ public class OrdersService {
 	public void addOrder(Orders order) {
 		ordersRepository.save(order);
 	}
-	
+	  
 	public void orderOrder(Orders order) {
 		ordersRepository.save(order);
 	}
 	
 	public void deleteOrder(Long id) {
 		ordersRepository.deleteById(id);
+	}
+
+	public boolean addUserOrder(Orders orders) {
+		// TODO Auto-generated method stub
+		try
+		{
+			ordersRepository.save(orders);
+			return true;
+		}catch(Exception e) {
+			return false;
+		}
 	}
 	
 	

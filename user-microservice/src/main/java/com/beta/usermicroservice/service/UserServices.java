@@ -19,7 +19,7 @@ public class UserServices {
 
 	public List<User> getAllUser() {
 		try {
-			return userRepository.findAll();
+			return (List<User>)userRepository.findAll();
 		} catch (Exception e) {
 			return null;
 		}

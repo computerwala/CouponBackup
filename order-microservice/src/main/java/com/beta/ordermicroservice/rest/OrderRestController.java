@@ -55,6 +55,16 @@ public class OrderRestController {
 			}
 	}	
 	
+	@RequestMapping(method = RequestMethod.POST,value="/post")
+	public boolean addOrder(@RequestBody Orders orders) {
+		try {
+			//
+			System.out.println("Into call");
+			return ordersService.addUserOrder(orders);
+		}catch(Exception e) {
+			return false;
+		}
+	}
 	
 //	@RequestMapping(method = RequestMethod.GET,value="/categories/{id}")
 //	public ResponseEntity<Category> getCategory(@PathVariable Long id) {

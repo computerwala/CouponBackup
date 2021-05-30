@@ -1965,3 +1965,878 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springfra
 2021-05-27 11:54:38,479 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2021-05-27 11:54:38,479 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2021-05-27 11:54:38,482 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-27 11:54:38,482 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\src\test\resources
+2021-05-27 13:13:30,944 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-27 13:13:30,946 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-27 13:13:30,949 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-27 13:13:30,955 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-27 13:13:30,955 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\src\test\resources
+2021-05-27 14:14:54,211 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-27 14:14:54,212 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-27 14:14:54,217 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-27 14:14:54,222 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-27 14:14:54,223 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\src\test\resources
+2021-05-27 22:05:28,597 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-05-27 22:29:17,853 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-27 22:29:17,864 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-27 22:29:17,886 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-27 22:29:17,890 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-27 22:29:17,890 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\order-microservice\src\test\resources
+2021-05-27 22:30:38,141 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-27 22:30:38,147 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-27 22:30:38,152 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-27 22:30:38,155 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-27 22:30:38,155 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\order-microservice\src\test\resources
+2021-05-27 22:30:47,988 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-27 22:30:47,993 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-27 22:30:48,001 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-27 22:30:48,005 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-27 22:30:48,005 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\order-microservice\src\test\resources
+2021-05-27 22:39:29,654 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-27 22:39:29,655 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-27 22:39:29,664 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-27 22:39:29,666 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-27 22:39:29,667 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\order-microservice\src\test\resources
+2021-05-27 22:48:18,108 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-27 22:48:18,110 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-27 22:48:18,114 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-27 22:48:18,121 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-27 22:48:18,121 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\order-microservice\src\test\resources
+2021-05-27 22:50:15,726 [Worker-19: Launching OrderMicroserviceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-27 22:50:15,727 [Worker-19: Launching OrderMicroserviceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-27 22:50:15,731 [Worker-19: Launching OrderMicroserviceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-27 22:50:15,733 [Worker-19: Launching OrderMicroserviceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-27 22:50:15,734 [Worker-19: Launching OrderMicroserviceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\order-microservice\src\test\resources
+2021-05-27 23:01:24,373 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-27 23:01:24,375 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-27 23:01:24,379 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-27 23:01:24,381 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-27 23:01:24,381 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\order-microservice\src\test\resources
+2021-05-27 23:01:26,037 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-27 23:01:26,038 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-27 23:01:26,049 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-27 23:01:26,054 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-27 23:01:26,054 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\src\test\resources
+2021-05-27 23:02:47,408 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-27 23:02:47,409 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-27 23:02:47,412 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-27 23:02:47,415 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-27 23:02:47,415 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\src\test\resources
+2021-05-27 23:03:30,820 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-27 23:03:30,820 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-27 23:03:30,835 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-27 23:03:30,838 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-27 23:03:30,838 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\coupon-microservice\src\test\resources
+2021-05-27 23:04:00,063 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-27 23:04:00,064 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-27 23:04:00,066 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-27 23:04:00,069 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-27 23:04:00,069 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\src\test\resources
+2021-05-28 00:40:17,747 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 00:40:17,751 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-28 00:40:17,756 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-28 00:40:17,760 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 00:40:17,761 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\coupon-microservice\src\test\resources
+2021-05-28 00:40:17,844 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 00:40:17,846 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-28 00:40:17,848 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-28 00:40:17,852 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 00:40:17,855 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\order-microservice\src\test\resources
+2021-05-28 11:41:21,792 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 11:41:21,795 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-28 11:41:21,806 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-28 11:41:21,808 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 11:41:21,808 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\coupon-microservice\src\test\resources
+2021-05-28 11:42:47,624 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 11:42:47,625 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-28 11:42:47,627 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-28 11:42:47,629 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 11:42:47,629 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\coupon-microservice\src\test\resources
+2021-05-28 11:58:55,865 [Worker-55: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.beta:user-microservice:0.0.1-SNAPSHOT @ C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\pom.xml.
+2021-05-28 11:59:02,397 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 11:59:02,397 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-28 11:59:02,397 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-28 11:59:02,400 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 11:59:02,400 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\src\test\resources
+2021-05-28 11:59:06,178 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 11:59:06,181 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-28 11:59:06,189 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-28 11:59:06,191 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 11:59:06,191 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\src\test\resources
+2021-05-28 14:40:21,964 [Worker-79: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.beta:user-microservice:0.0.1-SNAPSHOT @ C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\pom.xml.
+2021-05-28 14:40:24,329 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/springfox/springfox-boot-starter/3.0.0/springfox-boot-starter-3.0.0.pom
+2021-05-28 14:40:24,889 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/springfox/springfox-boot-starter/3.0.0/springfox-boot-starter-3.0.0.pom
+2021-05-28 14:40:25,166 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/springfox/springfox-oas/3.0.0/springfox-oas-3.0.0.pom
+2021-05-28 14:40:25,740 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/springfox/springfox-oas/3.0.0/springfox-oas-3.0.0.pom
+2021-05-28 14:40:25,987 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/swagger/core/v3/swagger-annotations/2.1.2/swagger-annotations-2.1.2.pom
+2021-05-28 14:40:26,647 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/swagger/core/v3/swagger-annotations/2.1.2/swagger-annotations-2.1.2.pom
+2021-05-28 14:40:26,879 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/swagger/core/v3/swagger-project/2.1.2/swagger-project-2.1.2.pom
+2021-05-28 14:40:27,249 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/swagger/core/v3/swagger-project/2.1.2/swagger-project-2.1.2.pom
+2021-05-28 14:40:27,591 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/swagger/core/v3/swagger-models/2.1.2/swagger-models-2.1.2.pom
+2021-05-28 14:40:27,857 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/swagger/core/v3/swagger-models/2.1.2/swagger-models-2.1.2.pom
+2021-05-28 14:40:28,099 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/springfox/springfox-spi/3.0.0/springfox-spi-3.0.0.pom
+2021-05-28 14:40:28,368 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/springfox/springfox-spi/3.0.0/springfox-spi-3.0.0.pom
+2021-05-28 14:40:28,618 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/springfox/springfox-core/3.0.0/springfox-core-3.0.0.pom
+2021-05-28 14:40:28,915 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/springfox/springfox-core/3.0.0/springfox-core-3.0.0.pom
+2021-05-28 14:40:29,249 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/plugin/spring-plugin-metadata/2.0.0.RELEASE/spring-plugin-metadata-2.0.0.RELEASE.pom
+2021-05-28 14:40:29,550 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/plugin/spring-plugin-metadata/2.0.0.RELEASE/spring-plugin-metadata-2.0.0.RELEASE.pom
+2021-05-28 14:40:29,799 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/springfox/springfox-schema/3.0.0/springfox-schema-3.0.0.pom
+2021-05-28 14:40:30,118 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/springfox/springfox-schema/3.0.0/springfox-schema-3.0.0.pom
+2021-05-28 14:40:30,392 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/springfox/springfox-spring-web/3.0.0/springfox-spring-web-3.0.0.pom
+2021-05-28 14:40:30,739 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/springfox/springfox-spring-web/3.0.0/springfox-spring-web-3.0.0.pom
+2021-05-28 14:40:31,044 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/github/classgraph/classgraph/4.8.83/classgraph-4.8.83.pom
+2021-05-28 14:40:31,365 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/github/classgraph/classgraph/4.8.83/classgraph-4.8.83.pom
+2021-05-28 14:40:31,683 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/springfox/springfox-spring-webmvc/3.0.0/springfox-spring-webmvc-3.0.0.pom
+2021-05-28 14:40:32,025 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/springfox/springfox-spring-webmvc/3.0.0/springfox-spring-webmvc-3.0.0.pom
+2021-05-28 14:40:32,274 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/springfox/springfox-spring-webflux/3.0.0/springfox-spring-webflux-3.0.0.pom
+2021-05-28 14:40:32,649 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/springfox/springfox-spring-webflux/3.0.0/springfox-spring-webflux-3.0.0.pom
+2021-05-28 14:40:32,960 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/springfox/springfox-swagger-common/3.0.0/springfox-swagger-common-3.0.0.pom
+2021-05-28 14:40:33,211 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/springfox/springfox-swagger-common/3.0.0/springfox-swagger-common-3.0.0.pom
+2021-05-28 14:40:33,545 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mapstruct/mapstruct/1.3.1.Final/mapstruct-1.3.1.Final.pom
+2021-05-28 14:40:33,915 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mapstruct/mapstruct/1.3.1.Final/mapstruct-1.3.1.Final.pom
+2021-05-28 14:40:34,154 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mapstruct/mapstruct-parent/1.3.1.Final/mapstruct-parent-1.3.1.Final.pom
+2021-05-28 14:40:34,576 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mapstruct/mapstruct-parent/1.3.1.Final/mapstruct-parent-1.3.1.Final.pom
+2021-05-28 14:40:34,880 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/springfox/springfox-data-rest/3.0.0/springfox-data-rest-3.0.0.pom
+2021-05-28 14:40:35,210 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/springfox/springfox-data-rest/3.0.0/springfox-data-rest-3.0.0.pom
+2021-05-28 14:40:35,519 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/springfox/springfox-bean-validators/3.0.0/springfox-bean-validators-3.0.0.pom
+2021-05-28 14:40:35,866 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/springfox/springfox-bean-validators/3.0.0/springfox-bean-validators-3.0.0.pom
+2021-05-28 14:40:36,164 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/springfox/springfox-swagger2/3.0.0/springfox-swagger2-3.0.0.pom
+2021-05-28 14:40:36,505 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/springfox/springfox-swagger2/3.0.0/springfox-swagger2-3.0.0.pom
+2021-05-28 14:40:36,799 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/springfox/springfox-swagger-ui/3.0.0/springfox-swagger-ui-3.0.0.pom
+2021-05-28 14:40:37,137 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/springfox/springfox-swagger-ui/3.0.0/springfox-swagger-ui-3.0.0.pom
+2021-05-28 14:40:37,458 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-parent/2.4.0/spring-boot-starter-parent-2.4.0.pom
+2021-05-28 14:40:37,767 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-parent/2.4.0/spring-boot-starter-parent-2.4.0.pom
+2021-05-28 14:40:38,098 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-dependencies/2.4.0/spring-boot-dependencies-2.4.0.pom
+2021-05-28 14:40:38,665 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-dependencies/2.4.0/spring-boot-dependencies-2.4.0.pom
+2021-05-28 14:40:39,046 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/dropwizard/metrics/metrics-bom/4.1.14/metrics-bom-4.1.14.pom
+2021-05-28 14:40:39,369 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/dropwizard/metrics/metrics-bom/4.1.14/metrics-bom-4.1.14.pom
+2021-05-28 14:40:39,696 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/dropwizard/metrics/metrics-parent/4.1.14/metrics-parent-4.1.14.pom
+2021-05-28 14:40:40,030 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/dropwizard/metrics/metrics-parent/4.1.14/metrics-parent-4.1.14.pom
+2021-05-28 14:40:40,314 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-bom/2.5.13/groovy-bom-2.5.13.pom
+2021-05-28 14:40:40,580 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-bom/2.5.13/groovy-bom-2.5.13.pom
+2021-05-28 14:40:40,988 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/infinispan/infinispan-bom/11.0.5.Final/infinispan-bom-11.0.5.Final.pom
+2021-05-28 14:40:41,300 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/infinispan/infinispan-bom/11.0.5.Final/infinispan-bom-11.0.5.Final.pom
+2021-05-28 14:40:41,647 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/infinispan/infinispan-build-configuration-parent/11.0.5.Final/infinispan-build-configuration-parent-11.0.5.Final.pom
+2021-05-28 14:40:41,915 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/infinispan/infinispan-build-configuration-parent/11.0.5.Final/infinispan-build-configuration-parent-11.0.5.Final.pom
+2021-05-28 14:40:42,260 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-bom/9.4.34.v20201102/jetty-bom-9.4.34.v20201102.pom
+2021-05-28 14:40:42,575 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-bom/9.4.34.v20201102/jetty-bom-9.4.34.v20201102.pom
+2021-05-28 14:40:42,980 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-bom/1.4.10/kotlin-bom-1.4.10.pom
+2021-05-28 14:40:43,301 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-bom/1.4.10/kotlin-bom-1.4.10.pom
+2021-05-28 14:40:43,609 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-bom/1.4.1/kotlinx-coroutines-bom-1.4.1.pom
+2021-05-28 14:40:43,909 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-bom/1.4.1/kotlinx-coroutines-bom-1.4.1.pom
+2021-05-28 14:40:44,187 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/micrometer/micrometer-bom/1.6.1/micrometer-bom-1.6.1.pom
+2021-05-28 14:40:44,430 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/micrometer/micrometer-bom/1.6.1/micrometer-bom-1.6.1.pom
+2021-05-28 14:40:44,701 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-bom/4.1.54.Final/netty-bom-4.1.54.Final.pom
+2021-05-28 14:40:44,978 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-bom/4.1.54.Final/netty-bom-4.1.54.Final.pom
+2021-05-28 14:40:45,444 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/projectreactor/reactor-bom/2020.0.1/reactor-bom-2020.0.1.pom
+2021-05-28 14:40:45,781 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/projectreactor/reactor-bom/2020.0.1/reactor-bom-2020.0.1.pom
+2021-05-28 14:40:46,094 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-bom/2020.0.1/spring-data-bom-2020.0.1.pom
+2021-05-28 14:40:46,406 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-bom/2020.0.1/spring-data-bom-2020.0.1.pom
+2021-05-28 14:40:46,738 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-framework-bom/5.3.1/spring-framework-bom-5.3.1.pom
+2021-05-28 14:40:47,048 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-framework-bom/5.3.1/spring-framework-bom-5.3.1.pom
+2021-05-28 14:40:47,387 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/integration/spring-integration-bom/5.4.1/spring-integration-bom-5.4.1.pom
+2021-05-28 14:40:47,631 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/integration/spring-integration-bom/5.4.1/spring-integration-bom-5.4.1.pom
+2021-05-28 14:40:48,004 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-bom/5.4.1/spring-security-bom-5.4.1.pom
+2021-05-28 14:40:48,344 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-bom/5.4.1/spring-security-bom-5.4.1.pom
+2021-05-28 14:40:48,581 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/session/spring-session-bom/2020.0.1/spring-session-bom-2020.0.1.pom
+2021-05-28 14:40:48,965 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/session/spring-session-bom/2020.0.1/spring-session-bom-2020.0.1.pom
+2021-05-28 14:40:50,130 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/springfox/springfox-boot-starter/3.0.0/springfox-boot-starter-3.0.0.jar
+2021-05-28 14:40:50,482 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/springfox/springfox-boot-starter/3.0.0/springfox-boot-starter-3.0.0.jar
+2021-05-28 14:40:50,747 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/springfox/springfox-oas/3.0.0/springfox-oas-3.0.0.jar
+2021-05-28 14:40:51,209 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/springfox/springfox-oas/3.0.0/springfox-oas-3.0.0.jar
+2021-05-28 14:40:51,538 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/swagger/core/v3/swagger-annotations/2.1.2/swagger-annotations-2.1.2.jar
+2021-05-28 14:40:52,032 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/swagger/core/v3/swagger-annotations/2.1.2/swagger-annotations-2.1.2.jar
+2021-05-28 14:40:52,259 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/swagger/core/v3/swagger-models/2.1.2/swagger-models-2.1.2.jar
+2021-05-28 14:40:52,970 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/swagger/core/v3/swagger-models/2.1.2/swagger-models-2.1.2.jar
+2021-05-28 14:40:53,280 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/springfox/springfox-spring-webmvc/3.0.0/springfox-spring-webmvc-3.0.0.jar
+2021-05-28 14:40:53,609 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/springfox/springfox-spring-webmvc/3.0.0/springfox-spring-webmvc-3.0.0.jar
+2021-05-28 14:40:53,912 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/springfox/springfox-spring-webflux/3.0.0/springfox-spring-webflux-3.0.0.jar
+2021-05-28 14:40:54,383 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/springfox/springfox-spring-webflux/3.0.0/springfox-spring-webflux-3.0.0.jar
+2021-05-28 14:40:54,761 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/springfox/springfox-data-rest/3.0.0/springfox-data-rest-3.0.0.jar
+2021-05-28 14:40:55,316 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/springfox/springfox-data-rest/3.0.0/springfox-data-rest-3.0.0.jar
+2021-05-28 14:40:55,708 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/springfox/springfox-bean-validators/3.0.0/springfox-bean-validators-3.0.0.jar
+2021-05-28 14:40:56,334 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/springfox/springfox-bean-validators/3.0.0/springfox-bean-validators-3.0.0.jar
+2021-05-28 14:40:56,660 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/springfox/springfox-swagger-ui/3.0.0/springfox-swagger-ui-3.0.0.jar
+2021-05-28 14:41:01,114 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/springfox/springfox-swagger-ui/3.0.0/springfox-swagger-ui-3.0.0.jar
+2021-05-28 14:41:01,439 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-parent/2.4.0/spring-boot-starter-parent-2.4.0.jar
+2021-05-28 14:41:02,637 [Worker-79: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.beta:coupon-microservice:0.0.1-SNAPSHOT @ C:\Users\Aman\Documents\capgemini_casestudy\backend\coupon-microservice\pom.xml.
+2021-05-28 14:41:03,361 [Worker-79: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.beta:order-microservice:0.0.1-SNAPSHOT @ C:\Users\Aman\Documents\capgemini_casestudy\backend\order-microservice\pom.xml.
+2021-05-28 14:41:03,990 [Worker-79: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.beta:eureka-discovery-service:0.0.1-SNAPSHOT @ C:\Users\Aman\Documents\capgemini_casestudy\backend\eureka-discovery-service\pom.xml.
+2021-05-28 14:41:04,578 [Worker-79: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.beta:user-microservice:0.0.1-SNAPSHOT @ C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\pom.xml.
+2021-05-28 14:41:05,853 [Worker-79: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 14:41:05,854 [Worker-79: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-28 14:41:05,855 [Worker-79: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-28 14:41:05,857 [Worker-79: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 14:41:05,857 [Worker-79: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\src\test\resources
+2021-05-28 14:41:08,354 [Worker-79: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 14:41:08,355 [Worker-79: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-28 14:41:08,358 [Worker-79: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-28 14:41:08,359 [Worker-79: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 14:41:08,359 [Worker-79: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\coupon-microservice\src\test\resources
+2021-05-28 14:41:09,842 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 14:41:09,843 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-28 14:41:09,844 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-28 14:41:09,846 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 14:41:09,846 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\eureka-discovery-service\src\test\resources
+2021-05-28 14:41:10,679 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 14:41:10,680 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-28 14:41:10,682 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-28 14:41:10,685 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 14:41:10,685 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\order-microservice\src\test\resources
+2021-05-28 14:41:11,039 [Worker-78: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/springfox/springfox-boot-starter/3.0.0/springfox-boot-starter-3.0.0-sources.jar
+2021-05-28 14:41:11,694 [Worker-78: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/springfox/springfox-boot-starter/3.0.0/springfox-boot-starter-3.0.0-sources.jar
+2021-05-28 14:41:11,760 [Worker-78: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.springfox:springfox-boot-starter:3.0.0
+2021-05-28 14:41:12,959 [Worker-78: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/springfox/springfox-oas/3.0.0/springfox-oas-3.0.0-sources.jar
+2021-05-28 14:41:13,503 [Worker-78: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/springfox/springfox-oas/3.0.0/springfox-oas-3.0.0-sources.jar
+2021-05-28 14:41:13,750 [Worker-78: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.springfox:springfox-oas:3.0.0
+2021-05-28 14:41:15,099 [Worker-78: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/swagger/core/v3/swagger-annotations/2.1.2/swagger-annotations-2.1.2-sources.jar
+2021-05-28 14:41:15,849 [Worker-78: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/swagger/core/v3/swagger-annotations/2.1.2/swagger-annotations-2.1.2-sources.jar
+2021-05-28 14:41:15,891 [Worker-78: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.swagger.core.v3:swagger-annotations:2.1.2
+2021-05-28 14:41:17,126 [Worker-78: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/swagger/core/v3/swagger-models/2.1.2/swagger-models-2.1.2-sources.jar
+2021-05-28 14:41:17,774 [Worker-78: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/swagger/core/v3/swagger-models/2.1.2/swagger-models-2.1.2-sources.jar
+2021-05-28 14:41:17,822 [Worker-78: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.swagger.core.v3:swagger-models:2.1.2
+2021-05-28 14:41:18,967 [Worker-78: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/springfox/springfox-spring-webmvc/3.0.0/springfox-spring-webmvc-3.0.0-sources.jar
+2021-05-28 14:41:19,693 [Worker-78: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/springfox/springfox-spring-webmvc/3.0.0/springfox-spring-webmvc-3.0.0-sources.jar
+2021-05-28 14:41:19,810 [Worker-78: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.springfox:springfox-spring-webmvc:3.0.0
+2021-05-28 14:41:20,997 [Worker-78: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/springfox/springfox-spring-webflux/3.0.0/springfox-spring-webflux-3.0.0-sources.jar
+2021-05-28 14:41:21,605 [Worker-78: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/springfox/springfox-spring-webflux/3.0.0/springfox-spring-webflux-3.0.0-sources.jar
+2021-05-28 14:41:21,710 [Worker-78: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.springfox:springfox-spring-webflux:3.0.0
+2021-05-28 14:41:23,199 [Worker-78: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/springfox/springfox-data-rest/3.0.0/springfox-data-rest-3.0.0-sources.jar
+2021-05-28 14:41:23,851 [Worker-78: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/springfox/springfox-data-rest/3.0.0/springfox-data-rest-3.0.0-sources.jar
+2021-05-28 14:41:24,066 [Worker-78: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.springfox:springfox-data-rest:3.0.0
+2021-05-28 14:41:25,441 [Worker-78: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/springfox/springfox-bean-validators/3.0.0/springfox-bean-validators-3.0.0-sources.jar
+2021-05-28 14:41:26,088 [Worker-78: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/springfox/springfox-bean-validators/3.0.0/springfox-bean-validators-3.0.0-sources.jar
+2021-05-28 14:41:26,264 [Worker-78: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.springfox:springfox-bean-validators:3.0.0
+2021-05-28 14:41:27,684 [Worker-78: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/springfox/springfox-swagger-ui/3.0.0/springfox-swagger-ui-3.0.0-sources.jar
+2021-05-28 14:41:28,334 [Worker-78: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/springfox/springfox-swagger-ui/3.0.0/springfox-swagger-ui-3.0.0-sources.jar
+2021-05-28 14:41:28,444 [Worker-78: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.springfox:springfox-swagger-ui:3.0.0
+2021-05-28 14:41:29,921 [Worker-78: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-parent/2.4.0/spring-boot-starter-parent-2.4.0-sources.jar
+2021-05-28 14:41:30,024 [Worker-78: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for org.springframework.boot:spring-boot-starter-parent:2.4.0
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework.boot:spring-boot-starter-parent:jar:sources:2.4.0
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:801) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:769) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:746) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:328) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:302) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:267) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:231) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:159) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:159) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.400.v20190506-1457.jar:na]
+2021-05-28 14:41:30,588 [Worker-79: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 14:41:30,588 [Worker-79: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-28 14:41:30,589 [Worker-79: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-28 14:41:30,590 [Worker-79: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 14:41:30,591 [Worker-79: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\src\test\resources
+2021-05-28 14:41:34,074 [Worker-83: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-parent/2.4.0/spring-boot-starter-parent-2.4.0-javadoc.jar
+2021-05-28 14:41:34,076 [Worker-83: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for org.springframework.boot:spring-boot-starter-parent:2.4.0
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework.boot:spring-boot-starter-parent:jar:javadoc:2.4.0
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:801) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:769) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:746) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:328) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:314) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:267) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:231) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:159) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:159) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.400.v20190506-1457.jar:na]
+2021-05-28 14:42:44,399 [Worker-84: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.beta:user-microservice:0.0.1-SNAPSHOT @ C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\pom.xml.
+2021-05-28 14:42:45,537 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 14:42:45,538 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-28 14:42:45,538 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-28 14:42:45,540 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 14:42:45,540 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\src\test\resources
+2021-05-28 14:42:48,732 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 14:42:48,734 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-28 14:42:48,742 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-28 14:42:48,745 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 14:42:48,746 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\src\test\resources
+2021-05-28 14:52:52,364 [Worker-58: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.beta:user-microservice:0.0.1-SNAPSHOT @ C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\pom.xml.
+2021-05-28 14:52:53,413 [Worker-58: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 14:52:53,413 [Worker-58: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-28 14:52:53,414 [Worker-58: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-28 14:52:53,418 [Worker-58: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 14:52:53,418 [Worker-58: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\src\test\resources
+2021-05-28 14:52:56,929 [Worker-78: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 14:52:56,930 [Worker-78: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-28 14:52:56,933 [Worker-78: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-28 14:52:56,936 [Worker-78: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 14:52:56,938 [Worker-78: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\src\test\resources
+2021-05-28 14:54:59,952 [Worker-82: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 14:54:59,953 [Worker-82: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-28 14:54:59,956 [Worker-82: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-28 14:54:59,958 [Worker-82: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 14:54:59,958 [Worker-82: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\src\test\resources
+2021-05-28 14:58:39,430 [Worker-88: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.beta:user-microservice:0.0.1-SNAPSHOT @ C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\pom.xml.
+2021-05-28 14:58:40,452 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 14:58:40,453 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-28 14:58:40,453 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-28 14:58:40,455 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 14:58:40,456 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\src\test\resources
+2021-05-28 14:58:43,222 [Worker-91: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 14:58:43,223 [Worker-91: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-28 14:58:43,225 [Worker-91: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-28 14:58:43,227 [Worker-91: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 14:58:43,227 [Worker-91: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\src\test\resources
+2021-05-28 15:01:29,595 [Worker-86: Launching UserMicroserviceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 15:01:29,597 [Worker-86: Launching UserMicroserviceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-28 15:01:29,599 [Worker-86: Launching UserMicroserviceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-28 15:01:29,602 [Worker-86: Launching UserMicroserviceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 15:01:29,602 [Worker-86: Launching UserMicroserviceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\src\test\resources
+2021-05-28 15:11:12,906 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 15:11:12,907 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-28 15:11:12,910 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-28 15:11:12,920 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 15:11:12,920 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\src\test\resources
+2021-05-28 15:18:54,314 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 15:18:54,315 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-28 15:18:54,320 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-28 15:18:54,328 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 15:18:54,328 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\src\test\resources
+2021-05-28 15:27:52,095 [Worker-103: Launching UserMicroserviceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 15:27:52,096 [Worker-103: Launching UserMicroserviceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-28 15:27:52,098 [Worker-103: Launching UserMicroserviceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-28 15:27:52,101 [Worker-103: Launching UserMicroserviceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 15:27:52,102 [Worker-103: Launching UserMicroserviceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\src\test\resources
+2021-05-28 15:33:11,034 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 15:33:11,035 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-28 15:33:11,038 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-28 15:33:11,045 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 15:33:11,045 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\order-microservice\src\test\resources
+2021-05-28 15:34:42,684 [Worker-99: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.beta:order-microservice:0.0.1-SNAPSHOT @ C:\Users\Aman\Documents\capgemini_casestudy\backend\order-microservice\pom.xml.
+2021-05-28 15:34:43,855 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 15:34:43,855 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-28 15:34:43,855 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-28 15:34:43,857 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 15:34:43,857 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\order-microservice\src\test\resources
+2021-05-28 15:34:46,780 [Worker-97: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 15:34:46,783 [Worker-97: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-28 15:34:46,785 [Worker-97: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-28 15:34:46,787 [Worker-97: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 15:34:46,787 [Worker-97: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\order-microservice\src\test\resources
+2021-05-28 15:34:58,198 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 15:34:58,200 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-28 15:34:58,203 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-28 15:34:58,205 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 15:34:58,205 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\order-microservice\src\test\resources
+2021-05-28 15:38:28,626 [Worker-98: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.beta:eureka-discovery-service:0.0.1-SNAPSHOT @ C:\Users\Aman\Documents\capgemini_casestudy\backend\eureka-discovery-service\pom.xml.
+2021-05-28 15:38:29,528 [Worker-98: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 15:38:29,528 [Worker-98: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-28 15:38:29,528 [Worker-98: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-28 15:38:29,530 [Worker-98: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 15:38:29,530 [Worker-98: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\eureka-discovery-service\src\test\resources
+2021-05-28 15:38:32,459 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 15:38:32,461 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-28 15:38:32,463 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-28 15:38:32,469 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 15:38:32,469 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\eureka-discovery-service\src\test\resources
+2021-05-28 15:38:48,340 [Worker-96: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.beta:eureka-discovery-service:0.0.1-SNAPSHOT @ C:\Users\Aman\Documents\capgemini_casestudy\backend\eureka-discovery-service\pom.xml.
+2021-05-28 15:38:49,205 [Worker-96: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 15:38:49,206 [Worker-96: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-28 15:38:49,206 [Worker-96: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-28 15:38:49,208 [Worker-96: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 15:38:49,208 [Worker-96: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\eureka-discovery-service\src\test\resources
+2021-05-28 15:38:51,858 [Worker-105: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 15:38:51,859 [Worker-105: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-28 15:38:51,862 [Worker-105: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-28 15:38:51,864 [Worker-105: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 15:38:51,864 [Worker-105: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\eureka-discovery-service\src\test\resources
+2021-05-28 15:39:04,245 [Worker-99: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.beta:coupon-microservice:0.0.1-SNAPSHOT @ C:\Users\Aman\Documents\capgemini_casestudy\backend\coupon-microservice\pom.xml.
+2021-05-28 15:39:05,046 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 15:39:05,046 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-28 15:39:05,046 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-28 15:39:05,048 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 15:39:05,048 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\coupon-microservice\src\test\resources
+2021-05-28 15:39:08,050 [Worker-105: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 15:39:08,056 [Worker-105: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-28 15:39:08,060 [Worker-105: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-28 15:39:08,062 [Worker-105: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 15:39:08,062 [Worker-105: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\coupon-microservice\src\test\resources
+2021-05-28 15:39:29,708 [Worker-98: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 15:39:29,709 [Worker-98: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-28 15:39:29,712 [Worker-98: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-28 15:39:29,714 [Worker-98: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 15:39:29,715 [Worker-98: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\coupon-microservice\src\test\resources
+2021-05-28 15:40:09,406 [Worker-105: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 15:40:09,407 [Worker-105: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-28 15:40:09,409 [Worker-105: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-28 15:40:09,412 [Worker-105: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 15:40:09,413 [Worker-105: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\coupon-microservice\src\test\resources
+2021-05-28 16:55:48,247 [Worker-126: Launching UserMicroserviceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 16:55:48,250 [Worker-126: Launching UserMicroserviceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-28 16:55:48,253 [Worker-126: Launching UserMicroserviceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-28 16:55:48,255 [Worker-126: Launching UserMicroserviceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 16:55:48,256 [Worker-126: Launching UserMicroserviceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\src\test\resources
+2021-05-28 17:14:42,723 [Worker-131: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 17:14:42,728 [Worker-131: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-28 17:14:42,733 [Worker-131: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-28 17:14:42,735 [Worker-131: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 17:14:42,735 [Worker-131: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\src\test\resources
+2021-05-28 17:16:35,520 [Worker-128: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 17:16:35,521 [Worker-128: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-28 17:16:35,524 [Worker-128: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-28 17:16:35,526 [Worker-128: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 17:16:35,527 [Worker-128: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\src\test\resources
+2021-05-28 18:15:59,374 [Worker-141: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 18:15:59,377 [Worker-141: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-28 18:15:59,382 [Worker-141: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-28 18:15:59,384 [Worker-141: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 18:15:59,385 [Worker-141: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\src\test\resources
+2021-05-28 18:19:48,421 [Worker-139: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 18:19:48,422 [Worker-139: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-28 18:19:48,425 [Worker-139: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-28 18:19:48,426 [Worker-139: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 18:19:48,427 [Worker-139: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\src\test\resources
+2021-05-28 18:37:05,438 [Worker-142: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 18:37:05,439 [Worker-142: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-28 18:37:05,442 [Worker-142: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-28 18:37:05,444 [Worker-142: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 18:37:05,445 [Worker-142: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\src\test\resources
+2021-05-28 18:39:24,864 [Worker-143: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 18:39:24,866 [Worker-143: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-28 18:39:24,868 [Worker-143: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-28 18:39:24,872 [Worker-143: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 18:39:24,873 [Worker-143: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\src\test\resources
+2021-05-28 18:40:09,907 [Worker-141: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 18:40:09,911 [Worker-141: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-28 18:40:09,914 [Worker-141: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-28 18:40:09,916 [Worker-141: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 18:40:09,916 [Worker-141: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\src\test\resources
+2021-05-28 19:17:30,079 [Worker-145: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 19:17:30,085 [Worker-145: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-28 19:17:30,091 [Worker-145: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-28 19:17:30,096 [Worker-145: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 19:17:30,096 [Worker-145: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\src\test\resources
+2021-05-28 19:17:59,247 [Worker-151: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 19:17:59,248 [Worker-151: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-28 19:17:59,250 [Worker-151: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-28 19:17:59,252 [Worker-151: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 19:17:59,252 [Worker-151: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\src\test\resources
+2021-05-28 19:20:59,211 [Worker-153: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 19:20:59,212 [Worker-153: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-28 19:20:59,216 [Worker-153: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-28 19:20:59,221 [Worker-153: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 19:20:59,221 [Worker-153: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\src\test\resources
+2021-05-28 19:27:52,168 [Worker-152: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 19:27:52,169 [Worker-152: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-28 19:27:52,172 [Worker-152: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-28 19:27:52,175 [Worker-152: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 19:27:52,175 [Worker-152: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\src\test\resources
+2021-05-28 19:33:17,247 [Worker-154: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 19:33:17,248 [Worker-154: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-28 19:33:17,251 [Worker-154: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-28 19:33:17,255 [Worker-154: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 19:33:17,256 [Worker-154: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\src\test\resources
+2021-05-28 19:39:24,137 [Worker-157: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 19:39:24,138 [Worker-157: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-28 19:39:24,140 [Worker-157: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-28 19:39:24,141 [Worker-157: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 19:39:24,142 [Worker-157: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\src\test\resources
+2021-05-28 20:09:54,813 [Worker-159: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 20:09:54,814 [Worker-159: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-28 20:09:54,816 [Worker-159: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-28 20:09:54,818 [Worker-159: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 20:09:54,818 [Worker-159: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\src\test\resources
+2021-05-28 20:10:32,647 [Worker-156: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 20:10:32,648 [Worker-156: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-28 20:10:32,650 [Worker-156: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-28 20:10:32,652 [Worker-156: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 20:10:32,652 [Worker-156: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\src\test\resources
+2021-05-28 20:13:22,600 [Worker-159: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 20:13:22,601 [Worker-159: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-28 20:13:22,603 [Worker-159: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-28 20:13:22,607 [Worker-159: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-28 20:13:22,607 [Worker-159: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\src\test\resources
+2021-05-29 12:44:59,233 [Worker-212: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.beta:api-gateway:0.0.1-SNAPSHOT @ C:\Users\Aman\Documents\capgemini_casestudy\backend\api-gateway\pom.xml.
+2021-05-29 12:45:06,637 [Worker-212: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /api-gateway/src/main/java
+2021-05-29 12:45:06,638 [Worker-212: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /api-gateway/src/main/resources
+2021-05-29 12:45:06,647 [Worker-212: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /api-gateway/src/main/resources
+2021-05-29 12:45:06,657 [Worker-212: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /api-gateway/src/test/java
+2021-05-29 12:45:07,286 [Worker-212: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 12 sec
+2021-05-29 12:45:10,994 [Worker-215: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 12:45:10,995 [Worker-215: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-05-29 12:45:10,997 [Worker-215: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-29 12:45:11,000 [Worker-215: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 12:45:11,001 [Worker-215: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\api-gateway\src\test\resources
+2021-05-29 12:45:11,743 [Worker-215: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 12:45:11,744 [Worker-215: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-29 12:45:11,744 [Worker-215: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-29 12:45:11,746 [Worker-215: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 12:45:11,746 [Worker-215: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\api-gateway\src\test\resources
+2021-05-29 12:46:03,484 [Worker-207: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.beta:api-gateway:0.0.1-SNAPSHOT @ C:\Users\Aman\Documents\capgemini_casestudy\backend\api-gateway\pom.xml.
+2021-05-29 12:46:04,372 [Worker-207: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 12:46:04,372 [Worker-207: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-29 12:46:04,372 [Worker-207: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-29 12:46:04,374 [Worker-207: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 12:46:04,374 [Worker-207: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\api-gateway\src\test\resources
+2021-05-29 12:46:21,346 [Worker-216: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-05-29 12:46:21,838 [Worker-216: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.beta:api-gateway:0.0.1-SNAPSHOT @ C:\Users\Aman\Documents\capgemini_casestudy\backend\api-gateway\pom.xml.
+2021-05-29 12:46:22,716 [Worker-216: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /api-gateway/src/main/java
+2021-05-29 12:46:22,717 [Worker-216: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /api-gateway/src/main/resources
+2021-05-29 12:46:22,717 [Worker-216: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /api-gateway/src/main/resources
+2021-05-29 12:46:22,717 [Worker-216: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /api-gateway/src/test/java
+2021-05-29 12:46:23,164 [Worker-216: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2021-05-29 12:46:24,631 [Worker-217: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 12:46:24,632 [Worker-217: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-05-29 12:46:24,633 [Worker-217: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-29 12:46:24,634 [Worker-217: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 12:46:24,634 [Worker-217: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\api-gateway\src\test\resources
+2021-05-29 12:49:19,480 [Worker-213: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 12:49:19,481 [Worker-213: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-29 12:49:19,486 [Worker-213: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-29 12:49:19,491 [Worker-213: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 12:49:19,492 [Worker-213: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\api-gateway\src\test\resources
+2021-05-29 12:50:23,595 [Worker-218: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 12:50:23,597 [Worker-218: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-05-29 12:50:23,598 [Worker-218: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-29 12:50:23,600 [Worker-218: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 12:50:23,600 [Worker-218: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\api-gateway\src\test\resources
+2021-05-29 12:51:24,950 [Worker-216: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-05-29 12:51:25,432 [Worker-216: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.beta:api-gateway:0.0.1-SNAPSHOT @ C:\Users\Aman\Documents\capgemini_casestudy\backend\api-gateway\pom.xml.
+2021-05-29 12:51:26,116 [Worker-216: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /api-gateway/src/main/java
+2021-05-29 12:51:26,116 [Worker-216: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /api-gateway/src/main/resources
+2021-05-29 12:51:26,116 [Worker-216: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /api-gateway/src/main/resources
+2021-05-29 12:51:26,117 [Worker-216: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /api-gateway/src/test/java
+2021-05-29 12:51:26,424 [Worker-216: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2021-05-29 12:51:27,648 [Worker-218: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 12:51:27,648 [Worker-218: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-29 12:51:27,650 [Worker-218: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-29 12:51:27,651 [Worker-218: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 12:51:27,652 [Worker-218: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\api-gateway\src\test\resources
+2021-05-29 12:52:20,426 [Worker-213: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 12:52:20,426 [Worker-213: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-29 12:52:20,429 [Worker-213: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-29 12:52:20,432 [Worker-213: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 12:52:20,433 [Worker-213: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\api-gateway\src\test\resources
+2021-05-29 14:13:46,352 [Worker-228: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 14:13:46,355 [Worker-228: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-29 14:13:46,359 [Worker-228: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-29 14:13:46,361 [Worker-228: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 14:13:46,361 [Worker-228: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\api-gateway\src\test\resources
+2021-05-29 14:25:04,172 [Worker-230: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 14:25:04,174 [Worker-230: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-29 14:25:04,176 [Worker-230: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-29 14:25:04,178 [Worker-230: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 14:25:04,178 [Worker-230: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\src\test\resources
+2021-05-29 14:30:11,158 [Worker-227: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 14:30:11,159 [Worker-227: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-29 14:30:11,164 [Worker-227: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-29 14:30:11,166 [Worker-227: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 14:30:11,166 [Worker-227: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\src\test\resources
+2021-05-29 14:38:56,996 [Worker-231: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 14:38:56,998 [Worker-231: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-29 14:38:57,000 [Worker-231: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-29 14:38:57,003 [Worker-231: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 14:38:57,003 [Worker-231: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\src\test\resources
+2021-05-29 14:40:32,643 [Worker-232: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 14:40:32,644 [Worker-232: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-29 14:40:32,647 [Worker-232: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-29 14:40:32,649 [Worker-232: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 14:40:32,649 [Worker-232: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\src\test\resources
+2021-05-29 14:59:22,863 [Worker-229: Launching UserMicroserviceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 14:59:22,864 [Worker-229: Launching UserMicroserviceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-29 14:59:22,867 [Worker-229: Launching UserMicroserviceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-29 14:59:22,870 [Worker-229: Launching UserMicroserviceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 14:59:22,870 [Worker-229: Launching UserMicroserviceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\src\test\resources
+2021-05-29 15:39:05,469 [Worker-243: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 15:39:05,471 [Worker-243: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-29 15:39:05,500 [Worker-243: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-29 15:39:05,509 [Worker-243: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 15:39:05,509 [Worker-243: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\src\test\resources
+2021-05-29 15:42:45,258 [Worker-246: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 15:42:45,260 [Worker-246: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-29 15:42:45,262 [Worker-246: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-29 15:42:45,264 [Worker-246: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 15:42:45,264 [Worker-246: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\src\test\resources
+2021-05-29 15:44:18,198 [Worker-240: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 15:44:18,199 [Worker-240: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-29 15:44:18,201 [Worker-240: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-29 15:44:18,203 [Worker-240: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 15:44:18,204 [Worker-240: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\src\test\resources
+2021-05-29 16:15:00,049 [Worker-247: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 16:15:00,053 [Worker-247: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-29 16:15:00,058 [Worker-247: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-29 16:15:00,061 [Worker-247: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 16:15:00,061 [Worker-247: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\src\test\resources
+2021-05-29 16:18:24,017 [Worker-245: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 16:18:24,019 [Worker-245: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-29 16:18:24,021 [Worker-245: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-29 16:18:24,024 [Worker-245: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 16:18:24,024 [Worker-245: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\src\test\resources
+2021-05-29 16:19:12,266 [Worker-247: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 16:19:12,267 [Worker-247: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-29 16:19:12,271 [Worker-247: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-29 16:19:12,275 [Worker-247: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 16:19:12,276 [Worker-247: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\src\test\resources
+2021-05-29 16:23:53,358 [Worker-249: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 16:23:53,361 [Worker-249: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-29 16:23:53,364 [Worker-249: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-29 16:23:53,366 [Worker-249: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 16:23:53,366 [Worker-249: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\src\test\resources
+2021-05-29 16:26:50,510 [Worker-250: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 16:26:50,511 [Worker-250: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-29 16:26:50,516 [Worker-250: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-29 16:26:50,523 [Worker-250: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 16:26:50,524 [Worker-250: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\src\test\resources
+2021-05-29 16:32:22,049 [Worker-252: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 16:32:22,049 [Worker-252: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-29 16:32:22,051 [Worker-252: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-29 16:32:22,053 [Worker-252: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 16:32:22,054 [Worker-252: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\src\test\resources
+2021-05-29 16:38:46,140 [Worker-253: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 16:38:46,140 [Worker-253: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-29 16:38:46,143 [Worker-253: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-29 16:38:46,145 [Worker-253: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 16:38:46,145 [Worker-253: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\src\test\resources
+2021-05-29 16:44:56,406 [Worker-254: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 16:44:56,408 [Worker-254: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-29 16:44:56,410 [Worker-254: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-29 16:44:56,411 [Worker-254: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 16:44:56,412 [Worker-254: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\src\test\resources
+2021-05-29 16:51:02,321 [Worker-256: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 16:51:02,322 [Worker-256: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-29 16:51:02,324 [Worker-256: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-29 16:51:02,328 [Worker-256: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 16:51:02,328 [Worker-256: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\src\test\resources
+2021-05-29 16:51:33,134 [Worker-256: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 16:51:33,135 [Worker-256: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-29 16:51:33,137 [Worker-256: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-29 16:51:33,140 [Worker-256: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 16:51:33,140 [Worker-256: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\src\test\resources
+2021-05-29 16:51:56,050 [Worker-255: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 16:51:56,050 [Worker-255: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-29 16:51:56,053 [Worker-255: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-29 16:51:56,054 [Worker-255: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 16:51:56,054 [Worker-255: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\src\test\resources
+2021-05-29 16:52:11,167 [Worker-249: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 16:52:11,168 [Worker-249: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-29 16:52:11,170 [Worker-249: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-29 16:52:11,172 [Worker-249: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 16:52:11,173 [Worker-249: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\src\test\resources
+2021-05-29 16:53:51,889 [Worker-249: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 16:53:51,890 [Worker-249: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-29 16:53:51,892 [Worker-249: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-29 16:53:51,893 [Worker-249: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 16:53:51,894 [Worker-249: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\src\test\resources
+2021-05-29 16:54:01,860 [Worker-249: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 16:54:01,861 [Worker-249: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-29 16:54:01,863 [Worker-249: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-29 16:54:01,865 [Worker-249: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 16:54:01,865 [Worker-249: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\src\test\resources
+2021-05-29 16:54:07,131 [Worker-257: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 16:54:07,132 [Worker-257: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-29 16:54:07,134 [Worker-257: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-29 16:54:07,136 [Worker-257: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 16:54:07,136 [Worker-257: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\src\test\resources
+2021-05-29 16:54:45,450 [Worker-257: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 16:54:45,451 [Worker-257: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-29 16:54:45,453 [Worker-257: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-29 16:54:45,454 [Worker-257: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 16:54:45,454 [Worker-257: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\src\test\resources
+2021-05-29 16:57:23,584 [Worker-255: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 16:57:23,585 [Worker-255: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-29 16:57:23,587 [Worker-255: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-29 16:57:23,590 [Worker-255: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 16:57:23,591 [Worker-255: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\src\test\resources
+2021-05-29 16:57:37,974 [Worker-249: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 16:57:37,975 [Worker-249: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-29 16:57:37,977 [Worker-249: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-29 16:57:37,979 [Worker-249: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 16:57:37,979 [Worker-249: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\src\test\resources
+2021-05-29 16:58:23,671 [Worker-257: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 16:58:23,672 [Worker-257: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-29 16:58:23,674 [Worker-257: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-29 16:58:23,676 [Worker-257: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 16:58:23,676 [Worker-257: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\src\test\resources
+2021-05-29 17:10:30,523 [Worker-249: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 17:10:30,524 [Worker-249: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-29 17:10:30,526 [Worker-249: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-29 17:10:30,528 [Worker-249: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 17:10:30,528 [Worker-249: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\src\test\resources
+2021-05-29 17:23:24,717 [Worker-258: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 17:23:24,718 [Worker-258: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-29 17:23:24,721 [Worker-258: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-29 17:23:24,724 [Worker-258: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 17:23:24,724 [Worker-258: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\src\test\resources
+2021-05-29 17:36:26,342 [Worker-250: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 17:36:26,343 [Worker-250: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-29 17:36:26,346 [Worker-250: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-29 17:36:26,348 [Worker-250: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 17:36:26,349 [Worker-250: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\src\test\resources
+2021-05-29 17:37:26,268 [Worker-259: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 17:37:26,269 [Worker-259: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-29 17:37:26,272 [Worker-259: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-29 17:37:26,274 [Worker-259: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 17:37:26,275 [Worker-259: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\src\test\resources
+2021-05-29 17:41:18,150 [Worker-260: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.beta:user-microservice:0.0.1-SNAPSHOT @ C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\pom.xml.
+2021-05-29 17:41:20,903 [Worker-260: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 17:41:20,903 [Worker-260: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-29 17:41:20,903 [Worker-260: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-29 17:41:20,905 [Worker-260: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 17:41:20,905 [Worker-260: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\src\test\resources
+2021-05-29 17:41:24,795 [Worker-249: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 17:41:24,795 [Worker-249: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-29 17:41:24,797 [Worker-249: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-29 17:41:24,799 [Worker-249: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 17:41:24,800 [Worker-249: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\src\test\resources
+2021-05-29 17:57:24,717 [Worker-262: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.beta:user-microservice:0.0.1-SNAPSHOT @ C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\pom.xml.
+2021-05-29 17:57:26,036 [Worker-262: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 17:57:26,037 [Worker-262: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-29 17:57:26,037 [Worker-262: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-29 17:57:26,039 [Worker-262: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 17:57:26,039 [Worker-262: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\src\test\resources
+2021-05-29 17:57:29,012 [Worker-260: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 17:57:29,014 [Worker-260: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-29 17:57:29,018 [Worker-260: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-29 17:57:29,023 [Worker-260: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 17:57:29,023 [Worker-260: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\src\test\resources
+2021-05-29 17:58:05,112 [Worker-260: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 17:58:05,113 [Worker-260: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-29 17:58:05,115 [Worker-260: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-29 17:58:05,117 [Worker-260: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 17:58:05,118 [Worker-260: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\src\test\resources
+2021-05-29 17:59:46,471 [Worker-259: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 17:59:46,472 [Worker-259: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-29 17:59:46,474 [Worker-259: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-29 17:59:46,476 [Worker-259: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 17:59:46,476 [Worker-259: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\src\test\resources
+2021-05-29 18:00:19,058 [Worker-259: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 18:00:19,059 [Worker-259: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-29 18:00:19,105 [Worker-259: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-29 18:00:19,108 [Worker-259: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 18:00:19,108 [Worker-259: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\src\test\resources
+2021-05-29 18:00:27,226 [Worker-262: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 18:00:27,226 [Worker-262: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-29 18:00:27,228 [Worker-262: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-29 18:00:27,230 [Worker-262: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 18:00:27,231 [Worker-262: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\src\test\resources
+2021-05-29 18:06:27,410 [Worker-260: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 18:06:27,411 [Worker-260: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-29 18:06:27,413 [Worker-260: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-29 18:06:27,416 [Worker-260: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 18:06:27,416 [Worker-260: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\src\test\resources
+2021-05-29 18:08:34,590 [Worker-262: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 18:08:34,591 [Worker-262: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-29 18:08:34,593 [Worker-262: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-29 18:08:34,595 [Worker-262: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 18:08:34,595 [Worker-262: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\src\test\resources
+2021-05-29 18:08:50,509 [Worker-249: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 18:08:50,510 [Worker-249: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-29 18:08:50,513 [Worker-249: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-29 18:08:50,514 [Worker-249: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 18:08:50,514 [Worker-249: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\src\test\resources
+2021-05-29 18:10:50,159 [Worker-266: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 18:10:50,160 [Worker-266: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-29 18:10:50,162 [Worker-266: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-29 18:10:50,165 [Worker-266: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 18:10:50,165 [Worker-266: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\src\test\resources
+2021-05-29 18:16:43,383 [Worker-262: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 18:16:43,384 [Worker-262: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-29 18:16:43,387 [Worker-262: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-29 18:16:43,389 [Worker-262: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 18:16:43,390 [Worker-262: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\src\test\resources
+2021-05-29 18:18:51,119 [Worker-249: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 18:18:51,119 [Worker-249: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-29 18:18:51,121 [Worker-249: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-29 18:18:51,123 [Worker-249: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 18:18:51,123 [Worker-249: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\src\test\resources
+2021-05-29 18:20:57,846 [Worker-259: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 18:20:57,847 [Worker-259: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-29 18:20:57,853 [Worker-259: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-29 18:20:57,855 [Worker-259: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 18:20:57,855 [Worker-259: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\src\test\resources
+2021-05-29 18:27:31,085 [Worker-269: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 18:27:31,085 [Worker-269: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-05-29 18:27:31,087 [Worker-269: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-29 18:27:31,088 [Worker-269: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 18:27:31,089 [Worker-269: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\coupon-microservice\src\test\resources
+2021-05-29 18:27:33,931 [Worker-264: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 18:27:33,933 [Worker-264: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-05-29 18:27:33,935 [Worker-264: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-29 18:27:33,938 [Worker-264: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 18:27:33,938 [Worker-264: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\order-microservice\src\test\resources
+2021-05-29 18:27:33,968 [Worker-264: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 18:27:33,968 [Worker-264: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-05-29 18:27:33,970 [Worker-264: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-29 18:27:33,972 [Worker-264: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-29 18:27:33,972 [Worker-264: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\src\test\resources
+2021-05-30 00:16:42,850 [Worker-309: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-30 00:16:42,851 [Worker-309: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-05-30 00:16:42,853 [Worker-309: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-30 00:16:42,855 [Worker-309: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-30 00:16:42,855 [Worker-309: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\api-gateway\src\test\resources
+2021-05-30 00:16:43,015 [Worker-309: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-30 00:16:43,016 [Worker-309: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-30 00:16:43,019 [Worker-309: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-30 00:16:43,021 [Worker-309: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-30 00:16:43,021 [Worker-309: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\src\test\resources
+2021-05-30 00:17:07,799 [Worker-307: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-30 00:17:07,800 [Worker-307: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-30 00:17:07,802 [Worker-307: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-30 00:17:07,804 [Worker-307: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-30 00:17:07,804 [Worker-307: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\src\test\resources
+2021-05-30 00:17:31,200 [Worker-307: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-30 00:17:31,201 [Worker-307: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-30 00:17:31,203 [Worker-307: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-30 00:17:31,204 [Worker-307: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-30 00:17:31,205 [Worker-307: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\src\test\resources
+2021-05-30 00:21:05,634 [Worker-310: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-30 00:21:05,634 [Worker-310: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-30 00:21:05,638 [Worker-310: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-30 00:21:05,640 [Worker-310: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-30 00:21:05,640 [Worker-310: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\api-gateway\src\test\resources
+2021-05-30 00:21:28,473 [Worker-311: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-30 00:21:28,474 [Worker-311: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-30 00:21:28,476 [Worker-311: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-30 00:21:28,478 [Worker-311: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-30 00:21:28,479 [Worker-311: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\api-gateway\src\test\resources
+2021-05-30 00:33:46,162 [Worker-313: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-30 00:33:46,163 [Worker-313: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-05-30 00:33:46,163 [Worker-313: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-30 00:33:46,165 [Worker-313: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-30 00:33:46,165 [Worker-313: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\api-gateway\src\test\resources
+2021-05-30 00:37:30,292 [Worker-310: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-30 00:37:30,292 [Worker-310: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-05-30 00:37:30,293 [Worker-310: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-30 00:37:30,297 [Worker-310: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-30 00:37:30,297 [Worker-310: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\api-gateway\src\test\resources
+2021-05-30 00:38:58,328 [Worker-316: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-30 00:38:58,328 [Worker-316: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-05-30 00:38:58,329 [Worker-316: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-30 00:38:58,331 [Worker-316: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-30 00:38:58,331 [Worker-316: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\api-gateway\src\test\resources
+2021-05-30 00:42:29,168 [Worker-268: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-30 00:42:29,168 [Worker-268: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-05-30 00:42:29,169 [Worker-268: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-30 00:42:29,170 [Worker-268: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-30 00:42:29,170 [Worker-268: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\api-gateway\src\test\resources
+2021-05-30 00:45:39,365 [Worker-313: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-30 00:45:39,365 [Worker-313: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-05-30 00:45:39,366 [Worker-313: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-30 00:45:39,367 [Worker-313: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-30 00:45:39,367 [Worker-313: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\api-gateway\src\test\resources
+2021-05-30 00:46:47,432 [Worker-317: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-30 00:46:47,432 [Worker-317: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-05-30 00:46:47,433 [Worker-317: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-30 00:46:47,435 [Worker-317: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-30 00:46:47,435 [Worker-317: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\api-gateway\src\test\resources
+2021-05-30 11:33:29,885 [Worker-1161: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-30 11:33:29,889 [Worker-1161: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-30 11:33:29,906 [Worker-1161: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-30 11:33:29,908 [Worker-1161: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-30 11:33:29,908 [Worker-1161: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aman\Documents\capgemini_casestudy\backend\user-microservice\src\test\resources
