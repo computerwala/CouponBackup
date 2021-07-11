@@ -1,5 +1,0 @@
-package com.beta.usermicroservice.repository;
-
-public class UserRepository {
-
-}

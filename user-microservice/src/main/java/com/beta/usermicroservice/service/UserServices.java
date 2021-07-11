@@ -8,6 +8,8 @@ import org.springframework.stereotype.Service;
 import org.springframework.web.bind.annotation.PathVariable;
 
 import com.beta.usermicroservice.model.User;
+import com.beta.usermicroservice.model.UserOrderDetail;
+import com.beta.usermicroservice.model.UserOrders;
 import com.beta.usermicroservice.repository.UserRepository;
 
 
@@ -59,5 +61,19 @@ public class UserServices {
 
 		}
 	}
+
+//	public boolean userService(UserOrders user) {
+//		// TODO Auto-generated method stub
+//		user ne kis din orderKiya total , userID, orderId
+//		for(UserOrderDetail detail:user.getUserOrderDetails()) {
+//			UserOrder c = new UserOder();
+//			userId;
+//			orderId;
+//			productId;
+//			productPrice;
+//			productQuantity;
+//			
+//		}
+//	}
 
 }

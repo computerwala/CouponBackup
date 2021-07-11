@@ -6,6 +6,7 @@ import java.util.Set;
 
 public class UserOrders {
 
+	private Integer userId;
 	private Date orderDate;
 	private Double total;
 	private Double discount;
@@ -17,6 +18,15 @@ public class UserOrders {
 		this.discount = discount;
 		this.userOrderDetails = userOrderDetails;
 	}
+	
+	public Integer getUserId() {
+		return userId;
+	}
+
+	public void setUserId(Integer userId) {
+		this.userId = userId;
+	}
+
 	public Date getOrderDate() {
 		return orderDate;
 	}

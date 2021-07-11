@@ -1,5 +1,6 @@
 package com.beta.couponmicroservice.model;
 
+
 import java.math.BigDecimal;
 import java.util.Set;
 
@@ -13,7 +14,6 @@ import javax.persistence.Id;
 import javax.persistence.JoinColumn;
 import javax.persistence.JoinTable;
 import javax.persistence.ManyToMany;
-import javax.persistence.ManyToOne;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.annotation.JsonManagedReference;
@@ -25,44 +25,39 @@ public class Products {
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private long id;
     
-	@Column(name = "name")
-	private String name;
+	@Column(name = "coupon_code")
+	private String couponCode;
+	
 	@Column(name = "description")
 	private String description;
+	
 	@Column(name = "quantity")
 	private BigDecimal quantity;
+	
 	@Column(name = "price")
 	private BigDecimal price;
 	
 	@JsonManagedReference
 	@JsonIgnore
-	@ManyToMany(fetch = FetchType.LAZY,cascade = {
-            CascadeType.PERSIST,
-            CascadeType.MERGE
-        })
-	@JoinTable(name = "product_category", joinColumns = @JoinColumn(name = "product_id", referencedColumnName = "id"), inverseJoinColumns = @JoinColumn(name = "category_id", referencedColumnName = "id"))
+	@ManyToMany(fetch = FetchType.LAZY,cascade = {CascadeType.PERSIST, CascadeType.MERGE })
+	@JoinTable(name = "product_category",
+		joinColumns = @JoinColumn(name = "product_id", referencedColumnName = "id"),
+		inverseJoinColumns = @JoinColumn(name = "category_id", referencedColumnName = "id"))
 	private Set<Category> categories;
 
-	public Products() {
-
-	}
-	
-	public Products(long id, String name, String description, BigDecimal quantity, BigDecimal price,
-			Set<Category> categories) {
+	public Products() {}	
+	public Products(long id, String couponCode, String description, BigDecimal quantity, BigDecimal price, Set<Category> categories) {
 		super();
 		this.id = id;
-		this.name = name;
+		this.couponCode = couponCode;
 		this.description = description;
 		this.quantity = quantity;
 		this.price = price;
 		this.categories = categories;
 	}
-
-
-
-	public Products(String name, String description, BigDecimal quantity, BigDecimal price, Set<Category> categories) {
+	public Products(String couponCode, String description, BigDecimal quantity, BigDecimal price, Set<Category> categories) {
 		super();
-		this.name = name;
+		this.couponCode = couponCode;
 		this.description = description;
 		this.quantity = quantity;
 		this.price = price;
@@ -72,23 +67,20 @@ public class Products {
 	public long getId() {
 		return id;
 	}
-
 	public void setId(long id) {
 		this.id = id;
 	}
 
-	public String getName() {
-		return name;
+	public String getcouponCode() {
+		return couponCode;
 	}
-
-	public void setName(String name) {
-		this.name = name;
+	public void setcouponCode(String couponCode) {
+		this.couponCode = couponCode;
 	}
 
 	public String getDescription() {
 		return description;
 	}
-
 	public void setDescription(String description) {
 		this.description = description;
 	}
@@ -96,7 +88,6 @@ public class Products {
 	public BigDecimal getQuantity() {
 		return quantity;
 	}
-
 	public void setQuantity(BigDecimal quantity) {
 		this.quantity = quantity;
 	}
@@ -104,7 +95,6 @@ public class Products {
 	public BigDecimal getPrice() {
 		return price;
 	}
-
 	public void setPrice(BigDecimal price) {
 		this.price = price;
 	}
@@ -112,12 +102,7 @@ public class Products {
 	public Set<Category> getCategories() {
 		return categories;
 	}
-
 	public void setCategories(Set<Category> categories) {
 		this.categories = categories;
 	}
-
-
-	
-
 }

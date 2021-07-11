@@ -1,31 +1,31 @@
 package com.beta.couponmicroservice.model;
 
 import java.math.BigDecimal;
+
 import java.util.Set;
-
-
 
 public class ProductDetails {
 
-    private String name;
+    private String couponCode;
 	private String description;
 	private BigDecimal quantity;
 	private BigDecimal price;
 	private Set<Long> categories;
-	public ProductDetails(String name, String description, BigDecimal quantity, BigDecimal price,
-			Set<Long> categories) {
+	
+	public ProductDetails(String couponCode, String description, BigDecimal quantity, BigDecimal price, Set<Long> categories) {
 		super();
-		this.name = name;
+		this.couponCode = couponCode;
 		this.description = description;
 		this.quantity = quantity;
 		this.price = price;
 		this.categories = categories;
 	}
-	public String getName() {
-		return name;
+	
+	public String getcouponCode() {
+		return couponCode;
 	}
-	public void setName(String name) {
-		this.name = name;
+	public void setcouponCode(String couponCode) {
+		this.couponCode = couponCode;
 	}
 	public String getDescription() {
 		return description;
@@ -50,8 +50,5 @@ public class ProductDetails {
 	}
 	public void setCategories(Set<Long> categories) {
 		this.categories = categories;
-	}
-
-	
-	
+	}	
 }

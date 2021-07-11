@@ -1,5 +1,0 @@
-package com.beta.couponmicroservice.repository;
-
-public class ProductRepository {
-
-}

@@ -1,5 +1,0 @@
-package com.beta.usermicroservice.model;
-
-public class UserOrder {
-
-}

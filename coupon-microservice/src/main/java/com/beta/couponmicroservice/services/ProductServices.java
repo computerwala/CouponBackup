@@ -22,8 +22,12 @@ public class ProductServices {
 	@Autowired
 	private CategoryRepository categoryRepository;
 	
-	public List<Products> getAllProdcuts(Long categoryID){
-		List<Products> productsList=new ArrayList<Products>();
+	public List<Products> getAllProdcuts(){
+		return (List<Products>)productRepository.findAll();
+	}
+	
+	public List<Products> getAllProdcutsByCategory(Long categoryID){
+		List<Products> productsList = new ArrayList<Products>();
 		Category category= categoryRepository.findById(categoryID).get();
 		category.getProducts().forEach(productsList::add);
 		return productsList;

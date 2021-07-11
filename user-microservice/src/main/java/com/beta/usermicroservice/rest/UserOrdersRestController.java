@@ -73,7 +73,7 @@ public class UserOrdersRestController {
 			}catch (Exception e) {
 				return ResponseEntity.status(HttpStatus.BAD_REQUEST).build();
 			}
-	}
+	} 
 	
 	public ResponseEntity<List<UserOrders>> getAllOrderOfUserFallback(@PathVariable(name = "userId")Long userId) {
 		Set<UserOrderDetail> userOrderDetails=new HashSet<UserOrderDetail>();
@@ -84,29 +84,17 @@ public class UserOrdersRestController {
 	
 	
 //POST SERVICE MAKING	
-//	@RequestMapping(method = RequestMethod.POST, value="/users/{userId}/orders")
-//	public ResponseEntity<List<UserOrders>> addOrderofUser(@RequestBody User user,@PathVariable("userId") long userId) {
+//	
+//	@RequestMapping(method = RequestMethod.POST,value="/addUserOrder")
+//	public boolean addUserOrder(@RequestBody UserOrders user) {
 //		try {
-//			ResponseEntity<List<Orders>> listOrders=restTemplate.exchange("http://orders-microservice/api/orders/user/"+userId, HttpMethod.GET, null, new ParameterizedTypeReference<List<Orders>>() {});	
-//			if (listOrders != null) {
-//				List<UserOrders> listUserOrder=new ArrayList<UserOrders>();
-//
-//				for(Orders order:listOrders.getBody()) {
-//					ResponseEntity<List<OrderDetail>> listOrderDetail=restTemplate.exchange("http://orders-microservice/api/orders/"+order.getId()+"/products", HttpMethod.GET, null, new ParameterizedTypeReference<List<OrderDetail>>() {});	
-//					Set<UserOrderDetail> userorderDetail=new HashSet<UserOrderDetail>(); 
-//					for (OrderDetail  orderDetail : listOrderDetail.getBody()) {
-//						 userorderDetail.add(new UserOrderDetail(orderDetail.getProduct().getName(), orderDetail.getQuantity()));
-//					} 		
-//					
-//					listUserOrder.add(new UserOrders(order.getOrderDate(), order.getTotal(), order.getTotal(),userorderDetail));
-//				}
-//				return ResponseEntity.status(HttpStatus.OK).body(listUserOrder);
-//			
-//			} else {
-//	            return ResponseEntity.status(HttpStatus.NOT_FOUND).build();
-//	        }
-//			}catch (Exception e) {
-//				return ResponseEntity.status(HttpStatus.BAD_REQUEST).build();
-//			}
+//			userService.userService(user);
+//		}
+//		catch(Exception e) {
+//			return false;
+//		}
+//		return true;
 //	}
+
+	
 }

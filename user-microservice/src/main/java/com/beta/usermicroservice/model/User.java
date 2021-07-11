@@ -35,7 +35,7 @@ public class User {
 	@Column(name = "phone")
 	private String phone;
 	
-	@Column(name = "joinDate", nullable = false, updatable = false, insertable = false, columnDefinition="date default CURRENT_TIMESTAMP")
+	@Column(name = "joinDate", nullable = false, updatable = false, columnDefinition="date default CURRENT_TIMESTAMP")
 	private Date joinDate;
 
 	public User() {}
@@ -80,6 +80,7 @@ public class User {
 		this.phone = phone;
 	}
 
+	@Temporal(TemporalType.TIMESTAMP)
 	public Date getJoinDate() {
 		return joinDate;
 	}

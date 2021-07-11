@@ -1,5 +1,0 @@
-package com.beta.ordermicroservice.model;
-
-public class OrderDetail {
-
-}

@@ -12,7 +12,6 @@ import javax.persistence.Id;
 import javax.persistence.ManyToMany;
 
 import com.fasterxml.jackson.annotation.JsonBackReference;
-import com.fasterxml.jackson.annotation.JsonManagedReference;
 
 
 @Entity
@@ -20,34 +19,30 @@ public class Category {
 	@Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
 	private long id;
+	
 	@Column(name="name")
 	private String name;
+	
 	@Column(name="description")
 	private String description;
 	
 	@JsonBackReference
-	@ManyToMany(fetch = FetchType.LAZY,cascade = {
-            CascadeType.PERSIST,
-            CascadeType.MERGE
-        },   mappedBy = "categories")
+	@ManyToMany(fetch = FetchType.LAZY,cascade = { CascadeType.PERSIST, CascadeType.MERGE },
+		mappedBy = "categories")
     private Set<Products> products;
 
-	public Category() {
-		
-	}
-
+	public Category() {}
 	public Category(String name, String description) {
 		super();
 		this.name = name;
 		this.description = description;
 	}
-
 	public Category(long id, String name, String description) {
 		super();
 		this.id = id;
 		this.name = name;
 		this.description = description;
-		this.products=this.products;
+		this.products = this.products;
 	}
 
 	public long getId() {
@@ -80,10 +75,5 @@ public class Category {
 
 	public void setProducts(Set<Products> products) {
 		this.products = products;
-	}
-
-	
-	
-	
-	
+	}	
 }
